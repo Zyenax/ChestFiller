@@ -1,0 +1,7 @@
+name: ChestFiller
+version: 1.0
+main: net.Blxd.main.Main
+author: Blxd
+commands:
+  fill:
+    description: Fill all the chests in a world!
